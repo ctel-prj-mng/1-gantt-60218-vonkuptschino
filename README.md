@@ -1,7 +1,7 @@
 
 # Gantt Chart
 
-![Диаграмма](/путь/к/изображению.jpg)
+![Диаграмма](1-gantt-60218-vonkuptschino/Gantt Chart.jpg)
 
 
 # 1-Gantt-060218
