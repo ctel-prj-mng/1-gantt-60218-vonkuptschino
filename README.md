@@ -2,7 +2,10 @@
 # Gantt Chart
 
 ![Диаграмма](GanttChart.jpg)
-
+ 
+ 
+ *check all the the risks in risks.md
+ 
 
 # 1-Gantt-060218
 
